@@ -5,11 +5,16 @@
 ## Highlight features
 
 - Ajax Loading page.
-- Multi-filters.
-- Price slider.
-- Filter by product state and rating.
-- Filter the options.
+- Enhance UX by Ajax technology.
+- Lightening-fast Ajax Navigation.
+- Ajax Add to wishlist.
+- Multi-filters & Filter the options.
 - Responsive & Retina Devices Support.
+- Cut down filtering time and eliminate wait time.
+- Result products are automatically loaded after each filtering.
+- Product is added to wishlist without navigating to the Wishlist page.
+- Stay on page after adding products to wishlist.
+- Enhance customer experience during shopping time.
 - 100% Open-source, Support multi-store, Support multi-language.
 - Easy to install and customize.
 - And many more feature ...
@@ -17,7 +22,7 @@
 ## More features & Demo
 
 - Extension details : https://www.magetop.com/magento-2-ajax-layered-navigation-extension.html
-- Frontend demo : https://magento2.demo.magetop.com/demo-full
+- Frontend demo : https://magento2.demo.magetop.com/demo-full/men/tops-men/jackets-men.html
 - Backend demo : https://magento2.demo.magetop.com/demo-full/admin
 
 ## Support & Contact info
