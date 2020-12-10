@@ -1,6 +1,6 @@
-# Magento 2 Ajax Layered Navigation by MageTop
+# Magento 2 Ajax Layered Navigation by Magetop
 
-**Magento 2 Ajax Layered Navigation Extension** by MageTop brings a list of filters to help your customers search and get their favorite products in the shortest way. This extension applies the modern AJAX technology to enhance the filtering systems to boost the satisfaction of customers towards every filtering action on pages.
+**Magento 2 Ajax Layered Navigation Extension** by Magetop brings a list of filters to help your customers search and get their favorite products in the shortest way. This extension applies the modern AJAX technology to enhance the filtering systems to boost the satisfaction of customers towards every filtering action on pages.
 
 ## Highlight features
 
@@ -19,13 +19,13 @@
 - Easy to install and customize.
 - And many more feature ...
 
-## More features & Demo
+## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-ajax-layered-navigation-extension.html
 - Frontend demo : https://magento2.demo.magetop.com/demo-full/men/tops-men/jackets-men.html
 - Backend demo : https://magento2.demo.magetop.com/demo-full/admin
 
-## Support & Contact info
+## Support & contact info
 
 - Need help setting up or want to customize this extension to meet your business needs? 
 - Get instant support with our Live Chat
